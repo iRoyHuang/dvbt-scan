@@ -1,4 +1,4 @@
-![Twitter](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40jzikusooka)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40jzikusooka)](https://twitter.com/jzikusooka)
 ![alt text](screenshots/dvbt_scan.png "DVB-T/2 Scan tool")
 
 dvbt-scan
